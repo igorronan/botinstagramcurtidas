@@ -9,6 +9,7 @@ OBS:
 # Pre Requisitos
   * Python: Instalar o Python atraves do Link https://www.python.org/downloads/
   * ChromeDriver: Instalar atraves do link https://chromedriver.chromium.org/downloads | Este arquivo deve ficar na mesma pasta do arquivo .py e ser compativel com a versão do google Chrome da sua maquina;
+  * Rodar o comando "python -m pip install selenium" para que seja possivel utilizar o ChromiumDrive
   
   
 # Configuração
